@@ -1,0 +1,6 @@
+void main(){
+	//this check num of comment
+	printf("Hi");
+	//another cmt
+	//cmt again
+}
